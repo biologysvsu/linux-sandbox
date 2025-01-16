@@ -1,0 +1,5 @@
+>LC727905.1 Ailurus fulgens personal collection:Jun J. Sato:JS191 Tas1r1 pseudogene for Taste receptor type 1 member 1, complete sequence: 48.00%
+>AB548409.1 Ailurus fulgens TAS1R1 gene for taste receptor type 1 member 1, partial cds: 58.00%
+>AB548408.1 Ailurus fulgens TAS1R1 gene for taste receptor type 1 member 1, partial cds: 63.00%
+>JQ315265.1 Ailurus fulgens Tas1r1 pseudogene mRNA, complete sequence: 59.00%
+>AB697520.1 Ailurus fulgens Tas1r1 gene for taste 1 receptor 1, partial cds, specimen_voucher: personal:Jun Sato:JS191: 61.00%
