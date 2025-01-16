@@ -1,4 +1,4 @@
-#!/bin/bash
+i#!/bin/bash
 
 # Ask user for a search term (e.g., a species or gene name)
 echo "Enter a search term (e.g., 'Homo sapiens[ORGN] AND COX1[GENE]'):"
