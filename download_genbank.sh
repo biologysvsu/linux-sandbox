@@ -18,4 +18,4 @@ if [[ -s $output_file ]]; then
     echo "Downloaded $count sequences into $output_file."
 else
     echo "No sequences found or an error occurred."
-fi
+    fi
