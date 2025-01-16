@@ -47,4 +47,5 @@ if [[ -n $sequence_content ]]; then
 fi
 
 echo "GC content for each sequence saved to $output_file."
+:qw
 
