@@ -1,0 +1,24 @@
+i#!/bin/bash
+
+# Prompt for search term
+echo "Enter a search term (e.g., 'Homo sapiens[ORGN] AND COX1[GENE]'):"
+read search_term
+
+# Prompt for the number of sequences to download
+echo "How many sequences do you want to download?"
+read count
+
+# Define the output file
+output_file="genbank_sequences.fasta"
+
+# Perform the search and fetch sequences
+esearch -db nucleotide -query "$search_term" | \
+    efetch -format fasta -stop "$count" > "$output_file"
+
+# Check and confirm the result
+if [[ -s $output_file ]]; then
+    echo "Downloaded $count sequences into $output_file."
+else
+    echo "No sequences found or an error occurred."
+fi
+
