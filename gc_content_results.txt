@@ -1,0 +1,5 @@
+>PQ803330.1 Rhincodon typus isolate EZ1607 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial: 38.00%
+>OP057071.1 Rhincodon typus voucher SIO:90f6915e-283c-420c-8447-2725ebc071d6 mitochondrion, complete genome: 37.00%
+>NC_023455.1 Rhincodon typus mitochondrion, complete genome: 37.00%
+>MZ150454.1 Rhincodon typus isolate EZ125 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial: 37.00%
+>FJ456922.1 Rhincodon typus cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial: 38.00%
