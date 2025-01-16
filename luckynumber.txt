@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Ask the user for a number
 echo "Enter a number between 1 and 4:"
 read number
@@ -12,8 +10,10 @@ elif [[ $number -eq 2 ]]; then
 elif [[ $number -eq 3 ]]; then
     echo "You're unstoppable! Success is just around the corner!"
 elif [[ $number -eq 4 ]]; then
-	echo "Tomorrow will be better"
+        echo "Tomorrow will be better"
 else
     echo "That's not a number between 1 and 3, but you're still awesome!"
 fi
+
+@brookrousseau ➜ /workspaces/linux-sandbox (main) $ 
 
