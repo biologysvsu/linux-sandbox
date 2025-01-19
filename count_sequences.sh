@@ -16,3 +16,4 @@ sequence_count=$(grep -c '^>' "$fasta_file")
 echo "The file $fasta_file contains $sequence_count sequences." > "$output_file"
 echo "Results saved to $output_file."
 
+
