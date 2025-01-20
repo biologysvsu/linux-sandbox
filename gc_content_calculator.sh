@@ -48,3 +48,5 @@ fi
 
 echo "GC content for each sequence saved to $output_file."
 
+
+
