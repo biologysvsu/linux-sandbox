@@ -19,3 +19,5 @@ if [[ -s $output_file ]]; then
 else
     echo "No sequences found or an error occurred."
 fi
+:wq
+
