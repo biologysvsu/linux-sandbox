@@ -1,0 +1,5 @@
+>OQ649933.1 UNVERIFIED: Dryopteris panda voucher KUN:Zuo4209 chloroplast sequence: 43.00%
+>OR610301.1 Coxsackievirus A24 strain A24/AIIMS11/Microbiology/2023 5' UTR: 55.00%
+>OR610300.1 Coxsackievirus A24 strain A24/AIIMS10/Microbiology/2023 5' UTR: 57.00%
+>OR610299.1 Coxsackievirus A24 strain A24/AIIMS09/Microbiology/2023 5' UTR: 57.00%
+>OR610298.1 Coxsackievirus A24 strain A24/AIIMS08/Microbiology/2023 5' UTR: 57.00%
