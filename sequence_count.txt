@@ -1,1 +1,6 @@
-The file genbank_sequences.fasta contains 10 sequences.
+ HEAD
+The file genbank_sequences.fasta contains 6 sequences.
+
+The file genbank_sequences.fasta contains 6 sequences.
+ a3c30f8f20375e9baadf271dd635ef0035b149f2
+
