@@ -1,0 +1,1 @@
+The file genbank_sequences.fast contains  sequences.
