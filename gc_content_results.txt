@@ -1,0 +1,5 @@
+>PQ727057.1 Homo sapiens haplogroup H3ap-A13776G-C3453T mitochondrion, complete genome: 44.00%
+>PQ631132.1 Homo sapiens haplogroup V12 mitochondrion, complete genome: 44.00%
+>MZ895063.1 Homo sapiens isolate V5 haplogroup R30b2a mitochondrion, complete genome: 44.00%
+>MZ895062.1 Homo sapiens isolate V4 haplogroup R30b2a mitochondrion, complete genome: 44.00%
+>MZ895061.1 Homo sapiens isolate V3 haplogroup R30b2a mitochondrion, complete genome: 44.00%
